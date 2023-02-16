@@ -4,7 +4,7 @@ Discord **client** written in Python. Made for educational purposes. Probably no
 # How to run
 Put your user token in `token.txt`
 
-In LemnCord folder launch `LemnCord.bat` or `LemnCord.bash` — if you use bash
+In LemnCord folder launch `LemnCord.bat`
 
 To exit: **CTRL + C**
 

@@ -1,4 +1,4 @@
-import json, time, websocket, requests, os, sys; from Utils.Reader import *
+import json, time, websocket, requests, os, sys; from Utils.Reader import *; from GUI.window import client_login
 sys.path.append("../..")
 
 def online():
